@@ -1,3 +1,4 @@
+import os; os.chdir("/DANGER-SB")
 import sys
 import glob
 import asyncio
